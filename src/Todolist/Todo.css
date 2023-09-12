@@ -1,0 +1,25 @@
+*{
+    background-color: chocolate;
+}
+.todo{
+    padding-left: 400px;
+    padding-top: 179px;
+}
+button{
+    padding: 13px;
+    width: 80px;
+    border-radius: 18px;
+    margin-left: 58px;
+}
+input {
+    height: 38px;
+    width: 184px;
+    border-radius: 15px;
+}
+li {
+    display: flex;
+    justify-content: space-around;
+    margin: 5px;
+    padding-top: 39px;
+    cursor: progress;
+}
